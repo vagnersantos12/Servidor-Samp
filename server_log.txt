@@ -1,0 +1,778 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[14:45:07] filterscripts = ""  (string)
+[14:45:07] 
+[14:45:07] Server Plugins
+[14:45:07] --------------
+[14:45:07]  Loading plugin: streamer
+[14:45:07] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[14:45:07]   Loaded.
+[14:45:07]  Loaded 1 plugins.
+
+[14:45:07] 
+[14:45:07] Filterscripts
+[14:45:07] ---------------
+[14:45:07]   Loaded 0 filterscripts.
+
+[14:45:07] 
+---------------------------------------------------------
+[14:45:07] Server Ligado: [13/06/2012 14:45:07]
+[14:45:07] ---------------------------------------------------------
+
+[14:45:07] -----------------------------
+[14:45:07] *** GM - BSC RPG Iniciado ***
+[14:45:07] -----------------------------
+[14:45:07] [BSC]: 24 Orgs Carregadas
+[14:45:07] [BSC]: 241 Casas Carregadas
+[14:45:07] [BSC]: 7 Empresas Carregadas
+[14:45:07] [BSC]: 24 Empresas Especiais Carregadas
+[14:45:07] [BSC]: 130 Carros Carregados
+[14:45:07] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:45:07]  
+[14:45:07]  
+[14:45:07]  - = BSC Games RP/RPG = - 
+[14:45:07] _____________________
+[14:45:07]  BSC - RPG
+[14:45:07]  
+[14:45:07] Number of vehicle models: 90
+[14:45:09] Incoming connection: 5.35.208.231:64343
+[14:45:09] [join] allef_Monster has joined the server (0:5.35.208.231)
+[14:45:17] allef_Monster has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[14:47:08] filterscripts = ""  (string)
+[14:47:08] 
+[14:47:08] Server Plugins
+[14:47:08] --------------
+[14:47:08]  Loading plugin: streamer
+[14:47:08] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[14:47:08]   Loaded.
+[14:47:08]  Loaded 1 plugins.
+
+[14:47:08] 
+[14:47:08] Filterscripts
+[14:47:08] ---------------
+[14:47:08]   Loaded 0 filterscripts.
+
+[14:47:08] 
+---------------------------------------------------------
+[14:47:08] Server Ligado: [13/06/2012 14:47:08]
+[14:47:08] ---------------------------------------------------------
+
+[14:47:08] -----------------------------
+[14:47:08] *** GM - BSC RPG Iniciado ***
+[14:47:08] -----------------------------
+[14:47:09] [BSC]: 24 Orgs Carregadas
+[14:47:09] [BSC]: 241 Casas Carregadas
+[14:47:09] [BSC]: 7 Empresas Carregadas
+[14:47:09] [BSC]: 24 Empresas Especiais Carregadas
+[14:47:09] [BSC]: 130 Carros Carregados
+[14:47:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[14:47:09]  
+[14:47:09]  
+[14:47:09]  - = BSC Games RP/RPG = - 
+[14:47:09] _____________________
+[14:47:09]  BSC - RPG
+[14:47:09]  
+[14:47:09] Number of vehicle models: 90
+[14:47:10] Incoming connection: 5.35.208.231:51353
+[14:47:10] [join] allef_Monster has joined the server (0:5.35.208.231)
+[14:47:14] allef_Monster has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[16:40:56] filterscripts = ""  (string)
+[16:40:56] 
+[16:40:56] Server Plugins
+[16:40:56] --------------
+[16:40:56]  Loading plugin: streamer
+[16:40:56] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:40:56]   Loaded.
+[16:40:56]  Loaded 1 plugins.
+
+[16:40:56] 
+[16:40:56] Filterscripts
+[16:40:56] ---------------
+[16:40:56]   Loaded 0 filterscripts.
+
+[16:40:56] 
+---------------------------------------------------------
+[16:40:56] Server Ligado: [13/06/2012 16:40:56]
+[16:40:56] ---------------------------------------------------------
+
+[16:40:56] -----------------------------
+[16:40:56] *** GM - BSC RPG Iniciado ***
+[16:40:56] -----------------------------
+[16:40:57] [BSC]: 24 Orgs Carregadas
+[16:40:57] [BSC]: 241 Casas Carregadas
+[16:40:57] [BSC]: 7 Empresas Carregadas
+[16:40:57] [BSC]: 24 Empresas Especiais Carregadas
+[16:40:57] [BSC]: 130 Carros Carregados
+[16:40:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:40:57]  
+[16:40:57]  
+[16:40:57]  - = BSC Games RP/RPG = - 
+[16:40:57] _____________________
+[16:40:57]  BSC - RPG
+[16:40:57]  
+[16:40:57] Number of vehicle models: 90
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[16:52:24] filterscripts = ""  (string)
+[16:52:24] 
+[16:52:24] Server Plugins
+[16:52:24] --------------
+[16:52:24]  Loading plugin: streamer
+[16:52:24] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:52:24]   Loaded.
+[16:52:24]  Loaded 1 plugins.
+
+[16:52:24] 
+[16:52:24] Filterscripts
+[16:52:24] ---------------
+[16:52:24]   Loaded 0 filterscripts.
+
+[16:52:24] 
+---------------------------------------------------------
+[16:52:24] Server Ligado: [13/06/2012 16:52:24]
+[16:52:24] ---------------------------------------------------------
+
+[16:52:24] -----------------------------
+[16:52:24] *** GM - BSC RPG Iniciado ***
+[16:52:24] -----------------------------
+[16:52:25] [BSC]: 24 Orgs Carregadas
+[16:52:25] [BSC]: 241 Casas Carregadas
+[16:52:25] [BSC]: 7 Empresas Carregadas
+[16:52:25] [BSC]: 24 Empresas Especiais Carregadas
+[16:52:25] [BSC]: 130 Carros Carregados
+[16:52:25] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:52:25]  
+[16:52:25]  
+[16:52:25]  - = BSC Games RP/RPG = - 
+[16:52:25] _____________________
+[16:52:25]  BSC - RPG
+[16:52:25]  
+[16:52:25] Number of vehicle models: 90
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[16:58:50] filterscripts = ""  (string)
+[16:58:50] 
+[16:58:50] Server Plugins
+[16:58:50] --------------
+[16:58:50]  Loading plugin: streamer
+[16:58:50] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:58:50]   Loaded.
+[16:58:50]  Loaded 1 plugins.
+
+[16:58:50] 
+[16:58:50] Filterscripts
+[16:58:50] ---------------
+[16:58:50]   Loaded 0 filterscripts.
+
+[16:58:50] 
+---------------------------------------------------------
+[16:58:50] Server Ligado: [13/06/2012 16:58:50]
+[16:58:50] ---------------------------------------------------------
+
+[16:58:50] -----------------------------
+[16:58:50] *** GM - BSC RPG Iniciado ***
+[16:58:50] -----------------------------
+[16:58:51] [BSC]: 24 Orgs Carregadas
+[16:58:51] [BSC]: 241 Casas Carregadas
+[16:58:51] [BSC]: 7 Empresas Carregadas
+[16:58:51] [BSC]: 24 Empresas Especiais Carregadas
+[16:58:51] [BSC]: 130 Carros Carregados
+[16:58:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:58:51]  
+[16:58:51]  
+[16:58:51]  - = BSC Games RP/RPG = - 
+[16:58:51] _____________________
+[16:58:51]  BSC - RPG
+[16:58:51]  
+[16:58:51] Number of vehicle models: 90
+[16:59:21] Incoming connection: 5.35.208.231:50053
+[16:59:21] [join] allef_Monster has joined the server (0:5.35.208.231)
+[16:59:52] allef_Monster has logged in.
+[17:00:08] 
+---------------------------------------------------------
+[17:00:08] Server Desligado: [13/06/2012 17:00:08]
+[17:00:08] ---------------------------------------------------------
+
+[17:00:11] Warning: PlayerDialogResponse PlayerId: 0 dialog ID doesn't match last sent dialog ID
+[17:00:20] 
+---------------------------------------------------------
+[17:00:20] Server Ligado: [13/06/2012 17:00:20]
+[17:00:20] ---------------------------------------------------------
+
+[17:00:20] -----------------------------
+[17:00:20] *** GM - BSC RPG Iniciado ***
+[17:00:20] -----------------------------
+[17:00:20] [BSC]: 24 Orgs Carregadas
+[17:00:20] [BSC]: 241 Casas Carregadas
+[17:00:20] [BSC]: 7 Empresas Carregadas
+[17:00:20] [BSC]: 24 Empresas Especiais Carregadas
+[17:00:20] [BSC]: 130 Carros Carregados
+[17:00:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:00:20]  
+[17:00:20]  
+[17:00:20]  - = BSC Games RP/RPG = - 
+[17:00:20] _____________________
+[17:00:20]  BSC - RPG
+[17:00:20]  
+[17:00:20] Number of vehicle models: 90
+[17:00:32] [part] allef_Monster has left the server (0:1)
+[17:01:30] Incoming connection: 5.35.208.231:53715
+[17:01:30] [join] allef_Monster has joined the server (0:5.35.208.231)
+[17:01:34] allef_Monster has logged in.
+[17:06:17] 
+---------------------------------------------------------
+[17:06:17] Server Desligado: [13/06/2012 17:06:17]
+[17:06:17] ---------------------------------------------------------
+
+[17:06:19] Warning: PlayerDialogResponse PlayerId: 0 dialog ID doesn't match last sent dialog ID
+[17:06:29] 
+---------------------------------------------------------
+[17:06:29] Server Ligado: [13/06/2012 17:06:29]
+[17:06:29] ---------------------------------------------------------
+
+[17:06:29] -----------------------------
+[17:06:29] *** GM - BSC RPG Iniciado ***
+[17:06:29] -----------------------------
+[17:06:29] [BSC]: 24 Orgs Carregadas
+[17:06:29] [BSC]: 241 Casas Carregadas
+[17:06:29] [BSC]: 7 Empresas Carregadas
+[17:06:29] [BSC]: 24 Empresas Especiais Carregadas
+[17:06:29] [BSC]: 130 Carros Carregados
+[17:06:29] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[17:06:29]  
+[17:06:29]  
+[17:06:29]  - = BSC Games RP/RPG = - 
+[17:06:29] _____________________
+[17:06:29]  BSC - RPG
+[17:06:29]  
+[17:06:29] Number of vehicle models: 90
+[17:06:32] allef_Monster has logged in.
+[17:07:13] RCON (In-Game): Player #0 (allef_Monster) has logged in.
+[17:12:21] [part] allef_Monster has left the server (0:0)
+[17:12:34] Incoming connection: 5.35.208.231:62869
+[17:12:34] [join] allef_Monster has joined the server (0:5.35.208.231)
+[17:12:42] allef_Monster has logged in.
+[17:34:45] [death] allef_Monster died 255
+[17:35:27] [death] allef_Monster died 255
+[17:36:24] [death] allef_Monster died 255
+[17:44:48] *1342 Admin allef_Monster: ae
+[17:50:54] [part] allef_Monster has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[16:04:21] filterscripts = ""  (string)
+[16:04:21] 
+[16:04:21] Server Plugins
+[16:04:21] --------------
+[16:04:21]  Loading plugin: streamer
+[16:04:21] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:04:21]   Loaded.
+[16:04:21]  Loaded 1 plugins.
+
+[16:04:21] 
+[16:04:21] Filterscripts
+[16:04:22] ---------------
+[16:04:22]   Loaded 0 filterscripts.
+
+[16:04:22] 
+---------------------------------------------------------
+[16:04:22] Server Ligado: [26/04/2023 16:04:22]
+[16:04:22] ---------------------------------------------------------
+
+[16:04:22] -----------------------------
+[16:04:22] *** GM - BSC RPG Iniciado ***
+[16:04:22] -----------------------------
+[16:04:22] [BSC]: 24 Orgs Carregadas
+[16:04:22] [BSC]: 241 Casas Carregadas
+[16:04:22] [BSC]: 7 Empresas Carregadas
+[16:04:22] [BSC]: 24 Empresas Especiais Carregadas
+[16:04:22] [BSC]: 130 Carros Carregados
+[16:04:22] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:04:22]  
+[16:04:22]  
+[16:04:22]  - = BSC Games RP/RPG = - 
+[16:04:22] _____________________
+[16:04:22]  BSC - RPG
+[16:04:22]  
+[16:04:22] Number of vehicle models: 90
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[16:44:17] filterscripts = ""  (string)
+[16:44:17] 
+[16:44:17] Server Plugins
+[16:44:17] --------------
+[16:44:17]  Loading plugin: streamer
+[16:44:17] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:44:17]   Loaded.
+[16:44:17]  Loaded 1 plugins.
+
+[16:44:17] 
+[16:44:17] Filterscripts
+[16:44:17] ---------------
+[16:44:17]   Loaded 0 filterscripts.
+
+[16:44:17] 
+---------------------------------------------------------
+[16:44:17] Server Ligado: [26/04/2023 16:44:17]
+[16:44:17] ---------------------------------------------------------
+
+[16:44:17] -----------------------------
+[16:44:17] *** GM - BSC RPG Iniciado ***
+[16:44:17] -----------------------------
+[16:44:17] [BSC]: 24 Orgs Carregadas
+[16:44:17] [BSC]: 241 Casas Carregadas
+[16:44:17] [BSC]: 7 Empresas Carregadas
+[16:44:17] [BSC]: 24 Empresas Especiais Carregadas
+[16:44:17] [BSC]: 130 Carros Carregados
+[16:44:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:44:17]  
+[16:44:17]  
+[16:44:17]  - = BSC Games RP/RPG = - 
+[16:44:17] _____________________
+[16:44:17]  BSC - RPG
+[16:44:17]  
+[16:44:17] Number of vehicle models: 90
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:47:44] filterscripts = ""  (string)
+[16:47:44] 
+[16:47:44] Server Plugins
+[16:47:44] --------------
+[16:47:44]  Loading plugin: streamer
+[16:47:44] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[16:47:44]   Loaded.
+[16:47:44]  Loaded 1 plugins.
+
+[16:47:44] 
+[16:47:44] Filterscripts
+[16:47:44] ---------------
+[16:47:44]   Loaded 0 filterscripts.
+
+[16:47:44] 
+---------------------------------------------------------
+[16:47:44] Server Ligado: [26/04/2023 16:47:44]
+[16:47:44] ---------------------------------------------------------
+
+[16:47:44] -----------------------------
+[16:47:44] *** GM - BSC RPG Iniciado ***
+[16:47:44] -----------------------------
+[16:47:45] [BSC]: 24 Orgs Carregadas
+[16:47:45] [BSC]: 241 Casas Carregadas
+[16:47:45] [BSC]: 7 Empresas Carregadas
+[16:47:45] [BSC]: 24 Empresas Especiais Carregadas
+[16:47:45] [BSC]: 130 Carros Carregados
+[16:47:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[16:47:45]  
+[16:47:45]  
+[16:47:45]  - = BSC Games RP/RPG = - 
+[16:47:45] _____________________
+[16:47:45]  BSC - RPG
+[16:47:45]  
+[16:47:45] Number of vehicle models: 90
+[16:48:18] [connection] 192.168.18.34:63569 requests connection cookie.
+[16:48:19] [connection] incoming connection: 192.168.18.34:63569 id: 0
+[16:48:20] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[16:48:26] Vagner_BHL has logged in.
+[16:50:05] [part] Vagner_BHL has left the server (0:1)
+[16:51:37] [connection] 192.168.18.34:49182 requests connection cookie.
+[16:51:38] [connection] incoming connection: 192.168.18.34:49182 id: 0
+[16:51:38] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[16:51:41] Vagner_BHL has logged in.
+[16:57:00] [Sons of Anarchy]Anuncio: roubar, Sons: Vagner_BHL - ID [0] - Telefone (4655)
+[17:10:33] Vagner_BHL pagou R$5000 para entrar na empresa 0
+[17:17:17] |ADMIN|: Vagner_BHL matou Vagner_BHL
+[17:17:17] ADMIN CMD: Vagner_BHL ganhou uma morte de: Vagner_BHL
+[17:17:17] [death] Vagner_BHL died 255
+[17:17:28] [part] Vagner_BHL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:47:38] filterscripts = ""  (string)
+[18:47:38] 
+[18:47:38] Server Plugins
+[18:47:38] --------------
+[18:47:38]  Loading plugin: streamer
+[18:47:38] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[18:47:38]   Loaded.
+[18:47:38]  Loaded 1 plugins.
+
+[18:47:38] 
+[18:47:38] Filterscripts
+[18:47:38] ---------------
+[18:47:38]   Loaded 0 filterscripts.
+
+[18:47:38] 
+---------------------------------------------------------
+[18:47:38] Server Ligado: [26/04/2023 18:47:38]
+[18:47:38] ---------------------------------------------------------
+
+[18:47:38] -----------------------------
+[18:47:38] *** GM - BHL RPG Iniciado ***
+[18:47:38] -----------------------------
+[18:47:38] [BHL]: 24 Orgs Carregadas
+[18:47:38] [BHL]: 241 Casas Carregadas
+[18:47:38] [BHL]: 7 Empresas Carregadas
+[18:47:38] [BHL]: 24 Empresas Especiais Carregadas
+[18:47:38] [BHL]: 130 Carros Carregados
+[18:47:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[18:47:38]  
+[18:47:38]  
+[18:47:38]  - = BHL Games RP/RPG = - 
+[18:47:38] _____________________
+[18:47:38]  BHL - RPG
+[18:47:38]  
+[18:47:38] Number of vehicle models: 90
+[18:47:58] [connection] 192.168.18.34:60598 requests connection cookie.
+[18:47:59] [connection] incoming connection: 192.168.18.34:60598 id: 0
+[18:47:59] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[18:48:04] Vagner_BHL has logged in.
+[19:05:36] [part] Vagner_BHL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:57] filterscripts = ""  (string)
+[19:48:57] 
+[19:48:57] Server Plugins
+[19:48:57] --------------
+[19:48:57]  Loading plugin: streamer
+[19:48:57] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[19:48:57]   Loaded.
+[19:48:57]  Loaded 1 plugins.
+
+[19:48:57] 
+[19:48:57] Filterscripts
+[19:48:57] ---------------
+[19:48:57]   Loaded 0 filterscripts.
+
+[19:48:57] 
+---------------------------------------------------------
+[19:48:57] Server Ligado: [26/04/2023 19:48:57]
+[19:48:57] ---------------------------------------------------------
+
+[19:48:57] -----------------------------
+[19:48:57] *** GM -  RPG Iniciado ***
+[19:48:57] -----------------------------
+[19:48:58] []: 24 Orgs Carregadas
+[19:48:58] []: 241 Casas Carregadas
+[19:48:58] []: 7 Empresas Carregadas
+[19:48:58] []: 24 Empresas Especiais Carregadas
+[19:48:58] []: 130 Carros Carregados
+[19:48:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:48:58]  
+[19:48:58]  
+[19:48:58]  - =  Games RP/RPG = - 
+[19:48:58] _____________________
+[19:48:58]   - RPG
+[19:48:58]  
+[19:48:58] Number of vehicle models: 90
+[19:51:16] [connection] 192.168.18.34:61628 requests connection cookie.
+[19:51:17] [connection] incoming connection: 192.168.18.34:61628 id: 0
+[19:51:17] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[19:51:20] Vagner_BHL has logged in.
+[19:55:47] 
+---------------------------------------------------------
+[19:55:47] Server Desligado: [26/04/2023 19:55:47]
+[19:55:47] ---------------------------------------------------------
+
+[19:55:58] 
+---------------------------------------------------------
+[19:55:58] Server Ligado: [26/04/2023 19:55:58]
+[19:55:58] ---------------------------------------------------------
+
+[19:55:58] -----------------------------
+[19:55:58] *** GM -  RPG Iniciado ***
+[19:55:58] -----------------------------
+[19:55:59] []: 24 Orgs Carregadas
+[19:55:59] []: 241 Casas Carregadas
+[19:55:59] []: 7 Empresas Carregadas
+[19:55:59] []: 24 Empresas Especiais Carregadas
+[19:55:59] []: 130 Carros Carregados
+[19:55:59] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:55:59]  
+[19:55:59]  
+[19:55:59]  - =  Games RP/RPG = - 
+[19:55:59] _____________________
+[19:55:59]   - RPG
+[19:55:59]  
+[19:55:59] Number of vehicle models: 90
+[19:56:02] Vagner_BHL has logged in.
+[19:56:39] [part] Vagner_BHL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:01:19] filterscripts = ""  (string)
+[20:01:19] 
+[20:01:19] Server Plugins
+[20:01:19] --------------
+[20:01:19]  Loading plugin: streamer
+[20:01:19] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[20:01:19]   Loaded.
+[20:01:19]  Loaded 1 plugins.
+
+[20:01:19] 
+[20:01:19] Filterscripts
+[20:01:19] ---------------
+[20:01:19]   Loaded 0 filterscripts.
+
+[20:01:19] 
+---------------------------------------------------------
+[20:01:19] Server Ligado: [26/04/2023 20:01:19]
+[20:01:19] ---------------------------------------------------------
+
+[20:01:19] -----------------------------
+[20:01:19] *** GM -  RPG Iniciado ***
+[20:01:19] -----------------------------
+[20:01:20] []: 24 Orgs Carregadas
+[20:01:20] []: 241 Casas Carregadas
+[20:01:20] []: 7 Empresas Carregadas
+[20:01:20] []: 24 Empresas Especiais Carregadas
+[20:01:20] []: 130 Carros Carregados
+[20:01:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[20:01:20]  
+[20:01:20]  
+[20:01:20]  - =  Games RP/RPG = - 
+[20:01:20] _____________________
+[20:01:20]   - RPG
+[20:01:20]  
+[20:01:20] Number of vehicle models: 90
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:16:03] filterscripts = ""  (string)
+[13:16:03] 
+[13:16:03] Server Plugins
+[13:16:03] --------------
+[13:16:03]  Loading plugin: streamer
+[13:16:03] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:16:03]   Loaded.
+[13:16:03]  Loaded 1 plugins.
+
+[13:16:03] 
+[13:16:03] Filterscripts
+[13:16:03] ---------------
+[13:16:03]   Loaded 0 filterscripts.
+
+[13:16:03] 
+---------------------------------------------------------
+[13:16:03] Server Ligado: [27/04/2023 13:16:03]
+[13:16:03] ---------------------------------------------------------
+
+[13:16:03] -----------------------------
+[13:16:03] *** GM -  RPG Iniciado ***
+[13:16:03] -----------------------------
+[13:16:03] []: 24 Orgs Carregadas
+[13:16:03] []: 241 Casas Carregadas
+[13:16:03] []: 7 Empresas Carregadas
+[13:16:04] []: 24 Empresas Especiais Carregadas
+[13:16:04] []: 130 Carros Carregados
+[13:16:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:16:04]  
+[13:16:04]  
+[13:16:04]  - =  Games RP/RPG = - 
+[13:16:04] _____________________
+[13:16:04]   - RPG
+[13:16:04]  
+[13:16:04] Number of vehicle models: 90
+[13:16:42] [connection] 192.168.18.34:53062 requests connection cookie.
+[13:16:43] [connection] incoming connection: 192.168.18.34:53062 id: 0
+[13:16:43] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[13:16:48] Vagner_BHL has logged in.
+[13:30:13] [part] Vagner_BHL has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:43:19] filterscripts = ""  (string)
+[13:43:19] 
+[13:43:19] Server Plugins
+[13:43:19] --------------
+[13:43:19]  Loading plugin: streamer
+[13:43:19] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:43:19]   Loaded.
+[13:43:19]  Loaded 1 plugins.
+
+[13:43:19] 
+[13:43:19] Filterscripts
+[13:43:19] ---------------
+[13:43:19]   Loaded 0 filterscripts.
+
+[13:43:19] Script[gamemodes/BSC.amx]: Run time error 22: "AMX not initialized (or doubly initialized)"
+[13:43:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:43:29] filterscripts = ""  (string)
+[13:43:29] 
+[13:43:29] Server Plugins
+[13:43:29] --------------
+[13:43:29]  Loading plugin: streamer
+[13:43:29] 
+
+*** Streamer Plugin v2.5 by Incognito loaded ***
+
+[13:43:29]   Loaded.
+[13:43:29]  Loaded 1 plugins.
+
+[13:43:29] 
+[13:43:29] Filterscripts
+[13:43:29] ---------------
+[13:43:29]   Loaded 0 filterscripts.
+
+[13:43:29] 
+---------------------------------------------------------
+[13:43:29] Server Ligado: [27/04/2023 13:43:29]
+[13:43:29] ---------------------------------------------------------
+
+[13:43:29] -----------------------------
+[13:43:29] *** GM -  RPG Iniciado ***
+[13:43:29] -----------------------------
+[13:43:29] []: 24 Orgs Carregadas
+[13:43:29] []: 241 Casas Carregadas
+[13:43:29] []: 7 Empresas Carregadas
+[13:43:29] []: 24 Empresas Especiais Carregadas
+[13:43:29] []: 130 Carros Carregados
+[13:43:29] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[13:43:29]  
+[13:43:29]  
+[13:43:29]  - =  Games RP/RPG = - 
+[13:43:29] _____________________
+[13:43:29]   - RPG
+[13:43:29]  
+[13:43:29] Number of vehicle models: 90
+[13:43:49] [connection] 192.168.18.34:57001 requests connection cookie.
+[13:43:50] [connection] incoming connection: 192.168.18.34:57001 id: 0
+[13:43:51] [join] Vagner_BHL has joined the server (0:192.168.18.34)
+[13:43:55] Vagner_BHL has logged in.
