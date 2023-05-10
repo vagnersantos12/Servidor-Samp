@@ -10331,7 +10331,7 @@ public OnPlayerStateChange(playerid, newstate, oldstate)
 			{
 			    if(!IsAHam(playerid))
 				{
-					SendClientMessage(playerid, COR_PF, "Voc� n�o � da Gavi�es da Fiel!");
+					SendClientMessage(playerid, COR_PF, "Você não é da Gaviões da Fiel!");
 					RemovePlayerFromVehicleEx(playerid);
 				}
 			}
@@ -10339,7 +10339,7 @@ public OnPlayerStateChange(playerid, newstate, oldstate)
 			{
 			    if(!IsABallas(playerid))
 				{
-					SendClientMessage(playerid, COR_BALLAS, "Voc� n�o � dos Ballas!");
+					SendClientMessage(playerid, COR_BALLAS, "Você não é dos Ballas!");
 					RemovePlayerFromVehicleEx(playerid);
 				}
 			}
@@ -10347,7 +10347,7 @@ public OnPlayerStateChange(playerid, newstate, oldstate)
 			{
 			    if(!IsAVagos(playerid))
 				{
-					SendClientMessage(playerid, COR_VAGOS, "Voc� n�o � dos Vagos!");
+					SendClientMessage(playerid, COR_VAGOS, "Você não é dos Vagos!");
 					RemovePlayerFromVehicleEx(playerid);
 				}
 			}
